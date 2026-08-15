@@ -1,9 +1,9 @@
-# fly.toml app configuration file generated for operadora-9wo2sg on 2026-08-15T00:42:41Z
+# fly.toml app configuration file generated for operadora on 2026-08-15T00:48:43Z
 #
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
-app = 'operadora-9wo2sg'
+app = 'operadora'
 primary_region = 'iad'
 
 [build]
